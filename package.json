@@ -1,0 +1,23 @@
+{
+  "name": "gcp-devops-demo",
+  "version": "1.0.0",
+  "description": "GCP DevOps Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewzhaocc/gcp-devops-demo.git"
+  },
+  "author": "Matthew Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewzhaocc/gcp-devops-demo/issues"
+  },
+  "homepage": "https://github.com/matthewzhaocc/gcp-devops-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
